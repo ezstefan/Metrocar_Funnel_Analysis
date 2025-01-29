@@ -1,9 +1,23 @@
-# Metrocar Funnel Analysis
-Overview
-The Metrocar project revolves around optimizing the user experience within a ride-sharing app. It is a testament to my analytical skills and ability to provide actionable insights to drive business decisions.
+# 🚖 Metrocar Funnel Analysis  
 
-Key Features
-In this project, I employed SQL for data retrieval and harnessed Tableau for data visualization. Together, these tools allowed me to explore critical aspects of the Metrocar customer funnel. The project is structured to provide a clear path through the analysis and offers a robust understanding of user behavior and potential areas for enhancement.
+## Overview  
+The **Metrocar project** focuses on optimizing the user experience within a ride-sharing app. This project highlights my analytical skills and ability to provide actionable insights to drive business decisions.  
 
-Tableau Visualizations:
-Explore interactive data visualizations created in Tableau, showcasing insights from the Metrocar project. These visualizations offer a dynamic way to understand user behavior, drop-off points, platform analysis, age group performance, surge pricing, and wait time optimization.
+## Key Features  
+- Used **SQL** for data retrieval.  
+- Leveraged **Tableau** for data visualization.  
+- Explored key aspects of the **Metrocar customer funnel** to understand user behavior and identify areas for improvement.  
+
+## Tableau Visualizations  
+Interactive dashboards provide insights into:  
+✔️ **User behavior & drop-off points**  
+✔️ **Platform analysis**  
+✔️ **Age group performance**  
+✔️ **Surge pricing trends**  
+✔️ **Wait time optimization**  
+
+🔗 **[View Tableau Dashboard](#)** _(https://public.tableau.com/views/MetrocarFunnelAnalysis_17381489360460/MetrocarFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)_  
+
+## Technologies Used  
+- **SQL** – Data retrieval & analysis  
+- **Tableau** – Data visualization  
