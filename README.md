@@ -16,7 +16,7 @@ Interactive dashboards provide insights into:
 ✔️ **Surge pricing trends**  
 ✔️ **Wait time optimization**  
 
-🔗 **[View Tableau Dashboard](#https://public.tableau.com/views/MetrocarFunnelAnalysis_17381489360460/MetrocarFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+🔗 **[View Tableau Dashboard](https://public.tableau.com/views/MetrocarFunnelAnalysis_17381489360460/MetrocarFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ## Technologies Used  
 - **SQL** – Data retrieval & analysis  
 - **Tableau** – Data visualization  
